@@ -18,15 +18,4 @@
   <build>
     <finalName>pets-app</finalName>
   </build>
-  <distributionManagement>
-		 <snapshotRepository>
-		    <id>nexus</id>
-		    <url>http://172.31.15.165:8081/repository/car-rentals-sanpshot/</url>
-		 </snapshotRepository>
-		
-		<repository>
-		    <id>nexus</id>
-		    <url>http://172.31.15.165:8081/repository/car-rentals-release/</url>
-		</repository>
-  	</distributionManagement>
 </project>
